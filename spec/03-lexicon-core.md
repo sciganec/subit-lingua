@@ -301,6 +301,5 @@ This lexicon is part of:
 **SUBIT‑Lingua v0.1.0 — Core Specification**
 
 It is stable and intended to expand in future versions (512, 2048+ entries).
-```
 
 ---
