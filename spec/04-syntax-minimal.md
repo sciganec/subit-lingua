@@ -208,6 +208,5 @@ This syntax is part of:
 **SUBIT‑Lingua v0.1.0 — Core Specification**
 
 It is stable and intended to remain unchanged in future versions.
-```
 
 ---
