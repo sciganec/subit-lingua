@@ -1,4 +1,10 @@
 # SUBIT‑Lingua
+![Version](https://img.shields.io/badge/version-v1.1-blue)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Build](https://img.shields.io/badge/build-passing-success)
+![Docs](https://img.shields.io/badge/docs-complete-blueviolet)
+
 
 **SUBIT‑Lingua** is a minimal, fully regular artificial language built on the structural principles of **SUBIT‑RFC**.  
 Its purpose is to provide a universal, compact, and formally precise interface for describing subjects, processes, and structural relations.
