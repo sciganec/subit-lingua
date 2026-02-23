@@ -240,23 +240,8 @@ Check:
 - axis balance  
 - vowel distribution  
 - semantic clarity  
-- morphological regularity  
-
-### Phase 5 — Release
-Publish:
-
-```
-SUBIT‑Lingua v0.3.0 — Lexicon 2048
-```
+- morphological regularity
 
 ---
 
-# 9. Status
 
-This roadmap is part of:
-
-**SUBIT‑Lingua v0.2.0 — Extended Lexicon Specification**
-
-The 2048‑word lexicon will be released in **v0.3.0**.
-
----
